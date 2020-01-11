@@ -58,11 +58,11 @@
 			children = (
 				4E73CAF123C81707009ECB3E /* AppDelegate.swift */,
 				4E73CAF523C81707009ECB3E /* ViewController.swift */,
+				4E73CB0523C8181A009ECB3E /* ConnectionViewController.swift */,
 				4E73CAF723C81707009ECB3E /* Main.storyboard */,
 				4E73CAFA23C81708009ECB3E /* Assets.xcassets */,
 				4E73CAFC23C81708009ECB3E /* LaunchScreen.storyboard */,
 				4E73CAFF23C81708009ECB3E /* Info.plist */,
-				4E73CB0523C8181A009ECB3E /* ConnectionViewController.swift */,
 			);
 			path = "Nim-MultiPeerConnectivity";
 			sourceTree = "<group>";

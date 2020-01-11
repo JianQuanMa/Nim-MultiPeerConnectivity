@@ -10,11 +10,19 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var nametextField: UITextField!
+    var playerName: String!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        playerName = self.nametextField.text ?? "no name"
     }
     
-
+    @IBAction func addOneButtonTapped(_ sender: UIButton) {
+    }
+    @IBAction func addTwoButtonTapped(_ sender: UIButton) {
+    }
+    @IBAction func addThreeButtonTapped(_ sender: UIButton) {
+    }
+    
 }
 
